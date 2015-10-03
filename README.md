@@ -1,2 +1,3 @@
 # Git-Demo2
-Git Demo
+
+Git is a distributed control version system which creates repository for each user
